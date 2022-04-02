@@ -26,8 +26,8 @@ function makeSound(key){
 
     switch (key) {
         case "w":
-            var crash = new Audio('sounds/pushpa.mp3');
-            crash.play();
+            var pushpa = new Audio('sounds/pushpa.mp3');
+            pushpa.play();
             break;
         
         case "a":
