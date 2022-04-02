@@ -26,27 +26,27 @@ function makeSound(key){
 
     switch (key) {
         case "w":
-            var pushpa = new Audio('sounds/pushpa.mp3');
+            var pushpa = new Audio('sounds/srivalli.mp3');
             pushpa.play();
             break;
         
         case "a":
-            var kick = new Audio('sounds/.mp3');
+            var kick = new Audio('sounds/petta.mp3');
             kick.play();
             break;
             
         case "s":
-            var snare = new Audio('sounds/.mp3');
+            var snare = new Audio('sounds/saaho.mp3');
             snare.play();
             break;
 
         case "d":
-            var tom1 = new Audio('sounds/.mp3');
+            var tom1 = new Audio('sounds/heat\ waves.mp3');
             tom1.play();
             break;
         
         case "j":
-            var tom2 = new Audio('sounds/.mp3');
+            var tom2 = new Audio('sounds/yenti-yenti.mp4a');
             tom2.play();
             break;
 

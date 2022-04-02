@@ -32,23 +32,29 @@ footer {
 }
 
 .w {
-  background-image: url('images/.png');
+  background-image: url('images/srivalli.jpg');
+  background-size: 150px 150px;
+  
 }
 
 .a {
-  background-image: url('images/.png');
+  background-image: url('images/petta.jpg');
+  background-size: 150px 150px;
 }
 
 .s {
-  background-image: url('images/.png');
+  background-image: url('images/saaho.jpg');
+  background-size: 150px 150px;
 }
 
 .d {
-  background-image: url('images/.png');
+  background-image: url('images/heat\ waves.jpg');
+  background-size: 150px 150px;
 }
 
 .j {
-  background-image: url('images/.png');
+  background-image: url('images/yenti-yenti.jpg');
+  background-size: 150px 150px;
 }
 
 .k {
