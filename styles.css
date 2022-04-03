@@ -33,28 +33,28 @@ footer {
 
 .w {
   background-image: url('images/srivalli.jpg');
-  background-size: 150px 150px;
+  background-size: 200px 200px;
   
 }
 
 .a {
   background-image: url('images/petta.jpg');
-  background-size: 150px 150px;
+  background-size: 200px 180px;
 }
 
 .s {
   background-image: url('images/saaho.jpg');
-  background-size: 150px 150px;
+  background-size: 180px 200px;
 }
 
 .d {
   background-image: url('images/heat\ waves.jpg');
-  background-size: 150px 150px;
+  background-size: 200px 200px;
 }
 
 .j {
   background-image: url('images/yenti-yenti.jpg');
-  background-size: 150px 150px;
+  background-size: 200px 200px;
 }
 
 .k {
@@ -88,18 +88,15 @@ footer {
   border: 10px solid #0077b6;
   font-size: 5rem;
   font-family: 'Arvo', cursive;
-  line-height: 2;
+  line-height: 6;
   font-weight: 900;
-
-  /*change the color*/
-  color: #8F00FF; 
-
-  text-shadow: 3px 0 #caf0f8;
+  color: #ffffff; 
+  text-shadow: 3px 0 #000000;
   border-radius: 15px;
   display: inline-block;
-  width: 150px;
-  height: 150px;
+  width: 200px;
+  height: 200px;
   text-align: center;
-  margin: 10px;
+  margin: 5px;
   background-color: white;
 }
