@@ -32,7 +32,7 @@ footer {
 }
 
 .w {
-  background-image: url('images/srivalli.jpg');
+  background-image: url('images/joker.jpg');
   background-size: 150px 150px;
   
 }
@@ -53,16 +53,18 @@ footer {
 }
 
 .j {
-  background-image: url('images/yenti-yenti.jpg');
+  background-image: url('images/tokyo\ drift.jpg');
   background-size: 150px 150px;
 }
 
 .k {
-  background-image: url('images/.png');
+  background-image: url('images/end\ game.jpg');
+  background-size: 150px 150px;
 }
 
 .l {
-  background-image: url('images/.png');
+  background-image: url('images/blinding\ lights.jpg');
+  background-size: 150px 150px;
 }
 
 .set {

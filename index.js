@@ -26,7 +26,7 @@ function makeSound(key){
 
     switch (key) {
         case "w":
-            var pushpa = new Audio('sounds/srivalli.mp3');
+            var pushpa = new Audio('sounds/joker.mp3');
             pushpa.play();
             break;
         
@@ -46,17 +46,17 @@ function makeSound(key){
             break;
         
         case "j":
-            var tom2 = new Audio('sounds/yenti-yenti.mp4a');
+            var tom2 = new Audio('sounds/tokyo\ drift.mp3');
             tom2.play();
             break;
 
         case "k":
-            var tom3 = new Audio('sounds/.mp3');
+            var tom3 = new Audio('sounds/end game.mp3');
             tom3.play();
             break;
 
         case "l":
-            var tom4 = new Audio('sounds/.mp3');
+            var tom4 = new Audio('sounds/blinding lights.mp3');
             tom4.play();
             break;
     
