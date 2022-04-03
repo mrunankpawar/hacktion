@@ -46,13 +46,10 @@ function makeSound(key){
             break;
         
         case "j":
-<<<<<<< HEAD
             var tom2 = new Audio('sounds/tokyo\ drift.mp3');
             tom2.play();
-=======
             var yenti = new Audio('sounds/yenti-yenti.mp4a');
             yenti.play();
->>>>>>> 1bbb0d4e47dbdde06d203335a7b412b4a2e038e7
             break;
 
         case "k":
