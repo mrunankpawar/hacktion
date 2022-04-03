@@ -31,23 +31,28 @@ function makeSound(key){
             break;
         
         case "a":
-            var kick = new Audio('sounds/petta.mp3');
-            kick.play();
+            var petta = new Audio('sounds/petta.mp3');
+            petta.play();
             break;
             
         case "s":
-            var snare = new Audio('sounds/saaho.mp3');
-            snare.play();
+            var saaho = new Audio('sounds/saaho.mp3');
+            saaho.play();
             break;
 
         case "d":
-            var tom1 = new Audio('sounds/heat\ waves.mp3');
-            tom1.play();
+            var heatWaves = new Audio('sounds/heat\ waves.mp3');
+            heatWaves.play();
             break;
         
         case "j":
+<<<<<<< HEAD
             var tom2 = new Audio('sounds/tokyo\ drift.mp3');
             tom2.play();
+=======
+            var yenti = new Audio('sounds/yenti-yenti.mp4a');
+            yenti.play();
+>>>>>>> 1bbb0d4e47dbdde06d203335a7b412b4a2e038e7
             break;
 
         case "k":
