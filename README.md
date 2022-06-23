@@ -1,6 +1,6 @@
 # Mash-Mix
 
-## Muse and remix your favourite music and showcase your creativity
+## Muse and remix your favourite music and showcase your creativity!
 
 ## Inspiration 💡
 We all are so inclined toward music and we imagine if we could create something which will remix our favorite/ trending songs and have fun along with friends and family.
