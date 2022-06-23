@@ -1,4 +1,4 @@
-# Mash-Mix
+# Mash-Mix 🎶
 
 ## Muse and remix your favourite music and showcase your creativity!
 
